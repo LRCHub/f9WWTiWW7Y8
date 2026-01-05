@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "熱情のスペクトラム",
+  "base_artist": "いきものがかり",
+  "createdAt": "2026-01-05T09:18:48.152876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/01_熱情のスペクトラム_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/02_熱情のスペクトラム_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/03_熱情のスペクトラム_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/04_熱情のスペクトラム_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/05_熱情のスペクトラム_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/06_熱情のスペクトラム_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム - Netsujo No Spectrum",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/07_熱情のスペクトラム_-_Netsujo_No_Spectrum_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/08_熱情のスペクトラム_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/09_熱情のスペクトラム_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム-instrumental-",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/10_熱情のスペクトラム-instrumental-_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム -instrumental-",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/11_熱情のスペクトラム_-instrumental-_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/12_熱情のスペクトラム_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム",
+      "artist": "生物股长",
+      "has_synced": true,
+      "path": "select/13_熱情のスペクトラム_生物股长.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム (七つの大罪)",
+      "artist": "大橋美和",
+      "has_synced": true,
+      "path": "select/14_熱情のスペクトラム_(七つの大罪)_大橋美和.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム (『七つの大罪』OP)",
+      "artist": "大橋美和",
+      "has_synced": true,
+      "path": "select/15_熱情のスペクトラム_(『七つの大罪』OP)_大橋美和.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム",
+      "artist": "Ikimono Gakari",
+      "has_synced": true,
+      "path": "select/16_熱情のスペクトラム_Ikimono_Gakari.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム (Netsujou no Spectrum)",
+      "artist": "Ikimono-gakari",
+      "has_synced": true,
+      "path": "select/17_熱情のスペクトラム_(Netsujou_no_Spectrum)_Ikimono-gakari.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "熱情のスペクトラム",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/18_熱情のスペクトラム_いきものがかり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "熱情のスペクトラム",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_熱情のスペクトラム_いきものがかり.txt"
+    }
+  ]
+}
